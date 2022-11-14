@@ -1,0 +1,11 @@
+.App{
+  display: flex;
+  justify-content: center;
+  
+
+}
+button{
+  padding-left: 35px;
+  padding-right: 35px;
+  border: solid 2px black
+}
